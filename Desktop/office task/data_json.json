@@ -1,0 +1,11 @@
+{
+    "name": "Alice",
+    "age": 28,
+    "city": "Los Angeles",
+    "skills": [
+        "Java",
+        "C++",
+        "HTML",
+        "Django"
+    ]
+}
